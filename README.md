@@ -1,4 +1,4 @@
-# YouTube-URL-Button
+# Copy-URL
 
 使用方法：
 1. npx tscを実行
